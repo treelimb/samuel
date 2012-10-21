@@ -5,3 +5,13 @@ body
   margin-right:auto;
   text-align:left;
 }
+
+h1
+{
+  background-color:rgb(242, 251, 130);
+}
+
+p
+{
+  background-color:rgb(142, 255, 254);
+}
