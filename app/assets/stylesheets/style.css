@@ -1,3 +1,8 @@
+head
+{
+  background-color:rgb(21, 151, 3);
+}
+
 body
 {
   width:700px;
@@ -8,10 +13,16 @@ body
 
 h1
 {
-  background-color:rgb(242, 251, 130);
+  background-color:rgb(0, 0, 0);
+  color:rgb(255, 255, 255);
+}
+
+h2
+{
+  background-color:rgb(0, 0, 0);
+  color:rgb(255, 255, 255);
 }
 
 p
 {
-  background-color:rgb(142, 255, 254);
 }
