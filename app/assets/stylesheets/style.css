@@ -6,9 +6,11 @@ head
 body
 {
   width:700px;
+  padding:10px;
+  border:5px solid rgb(0, 0, 0);
   margin-left:auto;
   margin-right:auto;
-  text-align:left;
+  text-align:center;
 }
 
 h1
@@ -25,4 +27,14 @@ h2
 
 p
 {
+  text-align:left;
+}
+
+a
+{
+  padding:10px;
+  border:5px solid rgb(0, 0, 0);
+  margin-left:5px;
+  margin-right:5px;
+  color:rgb(0, 0, 0);
 }
