@@ -1,0 +1,14 @@
+%h1
+  Create New Contact
+
+= form_for @contact do |form|
+
+  =form.label :email
+  =form.text_field :email
+
+  =form.submit
+
+
+%ul
+  -@contacts.each do |contacts|
+    %li= contacts.email
